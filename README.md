@@ -1,5 +1,5 @@
 # Wall-E - The Expense Tracker
-An expenese tracker to keep track of you daily expenses
+An expense tracker to keep track of you daily expenses
 
 ## Libraries Used:
     -Firebase - https://firebase.google.com
