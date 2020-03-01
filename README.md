@@ -12,5 +12,5 @@ An expenese tracker to keep track of you daily expenses
     -Vineeth-krishnan
     -Govind Santhosh
     -Prarthana Anand
-    -Savish
-    -Varsha
+    -Savish SV
+    -Varsha Reddy
